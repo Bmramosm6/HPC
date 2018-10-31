@@ -1,0 +1,5 @@
+A, Aij
+x, xj
+
+(A.x)i= sum j( Aij xj)
+Einsten notation
